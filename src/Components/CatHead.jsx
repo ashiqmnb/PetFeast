@@ -11,12 +11,12 @@ const CatHead = () => {
             <NavLink to={'/catsitem/'} >
                 {/* <div className='flex-col justify-between '>
                     <div className='flex justify-center rounded-full'>
-                        <img style={{height:'95px'}} className='rounded-full' src={catAll} alt="toys" />
+                        <img style={{height:'95px'}} className='rounded-ful' src={catAll} alt="toys" />
                     </div>
                     <span style={{color:'#052560'}} className='text-2xl font-semibold'>All</span>
                 </div> */}
                 <span style={{color:'#052560'}} 
-                    className='text-2xl font-semibold bg-blue-100 px-5 py-1 rounded-md border border-black shadow-md hover:bg-blue-200'>
+                    className='text-2xl font-semibold px-7 py-4 rounded-md shadow-lg bg-slate-100 hover:bg-blue-100'>
                         All
                 </span>
 
@@ -30,7 +30,7 @@ const CatHead = () => {
                     <span style={{color:'#052560'}} className='text-2xl font-semibold'>Food</span>
                 </div> */}
                 <span style={{color:'#052560'}} 
-                    className='text-2xl font-semibold bg-blue-100 px-5 py-1 rounded-md border border-black shadow-md hover:bg-blue-200'>
+                    className='text-2xl font-semibold px-7 py-4 rounded-md shadow-lg bg-slate-100 hover:bg-blue-100'>
                         Food
                 </span>
             </NavLink>
@@ -43,7 +43,7 @@ const CatHead = () => {
                     <span style={{color:'#052560'}} className='text-2xl font-semibold'>Treats</span>
                 </div> */}
                 <span style={{color:'#052560'}} 
-                    className='text-2xl font-semibold bg-blue-100 px-5 py-1 rounded-md border border-black shadow-md hover:bg-blue-200'>
+                    className='text-2xl font-semibold px-7 py-4 rounded-md shadow-lg bg-slate-100 hover:bg-blue-100'>
                         Treats
                 </span>
             </NavLink>

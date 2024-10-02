@@ -102,7 +102,18 @@
       "password": "basi123",
       "confirmPassword": "basi123",
       "isAllowed": false,
-      "cart": [],
+      "cart": [
+        {
+          "id": "5",
+          "heading": "Wainwright's Sensitive Adult Dry Dog Food Atlantic Salmon With Superfoods",
+          "discription": "A hypoallergenic, balanced dry food with no added wheat, pork, dairy, or artificial additives, made from a single protein source.",
+          "url": "https://cdn.petsathome.com/public/images/products/900_7145754.jpg",
+          "catogory": "dog-food",
+          "price": 9.6,
+          "rating": 3.5,
+          "quantity": 1
+        }
+      ],
       "address": {
         "fullName": "Basila Narghees",
         "phoneNumber": "9876579392",

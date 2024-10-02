@@ -16,7 +16,7 @@ const DogHead = () => {
                     <span style={{color:'#052560'}} className='text-2xl font-semibold'>All</span>
                 </div> */}
                 <span style={{color:'#052560'}} 
-                    className='text-2xl font-semibold bg-blue-100 px-5 py-1 rounded-md border border-black shadow-md hover:bg-blue-200'>
+                    className='text-2xl font-semibold px-7 py-4 rounded-md shadow-lg bg-slate-100 hover:bg-blue-100'>
                         All
                 </span>
 
@@ -30,7 +30,7 @@ const DogHead = () => {
                     <span style={{color:'#052560'}} className='text-2xl font-semibold'>Food</span>
                 </div> */}
                     <span style={{color:'#052560'}} 
-                        className='text-2xl font-semibold bg-blue-100 px-5 py-1 rounded-md border border-black shadow-md hover:bg-blue-200'>
+                        className='text-2xl font-semibold px-7 py-4 rounded-md shadow-lg bg-slate-100 hover:bg-blue-100'>
                             Food
                     </span>
             </NavLink>
@@ -43,7 +43,7 @@ const DogHead = () => {
                     <span style={{color:'#052560'}} className='text-2xl font-semibold'>Bed</span>
                 </div> */}
                     <span style={{color:'#052560'}} 
-                        className='text-2xl font-semibold bg-blue-100 px-5 py-1 rounded-md border border-black shadow-md hover:bg-blue-200'>
+                        className='text-2xl font-semibold px-7 py-4 rounded-md shadow-lg bg-slate-100 hover:bg-blue-100'>
                             Bed
                     </span>
             </NavLink>

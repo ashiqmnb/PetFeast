@@ -30,7 +30,7 @@ const CatTrats = () => {
       <div className='flex justify-center mb-8'>
         <hr style={{border: '1px solid rgba(5, 37, 96, 0.3)'}} className=' w-4/5'/>
       </div>
-            <h1 style={{color:'#052560'}} className='font-serif text-3xl font-bold'>Treats For Dogs</h1>
+            <h1 style={{color:'#052560'}} className='font-serif text-3xl font-bold'>Treats For Cats</h1>
             <div className='flex gap-4 flex-wrap justify-center mt-7 px-6'>
                 {CatFood.map((item)=>{
                   return(
